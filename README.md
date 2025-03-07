@@ -86,7 +86,7 @@ rm comprehensive research, data analysis, and report generation. The system leve
 1. Clone the repository:
 ```bash
 git clone https://github.com/Gh-Novel/Deep_research-.git
-cd deep-research
+cd Deep-research
 ```
 
 2. Create and activate a virtual environment (Windows):
