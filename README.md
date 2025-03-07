@@ -85,7 +85,7 @@ rm comprehensive research, data analysis, and report generation. The system leve
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deep-research.git
+git clone https://github.com/Gh-Novel/Deep_research-.git
 cd deep-research
 ```
 
