@@ -1,8 +1,5 @@
-# Deep_research
-rm comprehensive research, data analysis, and report generation. The system leverages modern AI technologies, including LangChain and Groq LLM, to provide users with in-depth analysis on a wide range of topics, with particular strength in financial and market research.
 # Deep Research AI System
-
-An advanced AI-powered research system that leverages multiple specialized agents to perform comprehensive research, data analysis, and report generation.
+rm comprehensive research, data analysis, and report generation. The system leverages modern AI technologies, including LangChain and Groq LLM, to provide users with in-depth analysis on a wide range of topics, with particular strength in financial and market research. An advanced AI-powered research system that leverages multiple specialized agents to perform comprehensive research, data analysis, and report generation.
 
 ![Deep Research AI System](![Screenshot 2025-03-08 004347](https://github.com/user-attachments/assets/a2ed4762-0813-494b-9d4c-4cd5b78fc097)
 )
